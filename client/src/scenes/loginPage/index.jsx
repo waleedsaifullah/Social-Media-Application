@@ -1,8 +1,12 @@
+import { Box } from '@mui/material'
 import React from 'react'
+import Navbar from 'scenes/navbar'
 
 const LoginPage = () => {
   return (
-    <div>LoginPage</div>
+    <Box>
+      <h1>Yes</h1>
+    </Box>
   )
 }
 
